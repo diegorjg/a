@@ -1,0 +1,5 @@
+x = "hello ";
+console.long()
+
+
+
